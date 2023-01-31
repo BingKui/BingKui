@@ -21,9 +21,8 @@ Here are some ideas to get you started:
 [![mBingKui's github stats](https://github-readme-stats.vercel.app/api?username=BingKui)](https://github.com/BingKui/ 'BingKui的信息')
 
   ### 关注方式 / Follow Me
-  ![](./qrcode_wx.jpg)
-  [![微博](https://img.shields.io/badge/%E5%AD%A4%E9%B9%9C%E5%85%88%E6%A3%AE-orange?style=flat-square&logo=Sina%20Weibo&logoColor=ffffff)](https://weibo.com/6624339726)
-  [![哔哩哔哩](https://img.shields.io/badge/%E9%9C%9E%E9%B9%9Clxgw-00a1d6?style=flat-square&logo=Bilibili&logoColor=ffffff)](https://space.bilibili.com/3461565661579301) 
+  ![](https://github.com/BingKui/BingKui/blob/main//qrcode_wx.jpg)
+  [![哔哩哔哩](https://img.shields.io/badge/无聊小码农-00a1d6?style=flat-square&logo=Bilibili&logoColor=ffffff)](https://space.bilibili.com/233277062) 
   
   ### 电子邮箱 / E-Mail
 [![](https://img.shields.io/badge/178974662-%40qq.com-royalblue?style=flat-square)](mailto:178974662@qq.com)
